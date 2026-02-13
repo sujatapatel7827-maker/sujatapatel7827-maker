@@ -62,8 +62,6 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 
   ---
 
-  ## 🔥 GitHub Stats   👈 YAHAN PASTE KARO
-
 ## 🔥 GitHub Stats
 
 <p align="center">
