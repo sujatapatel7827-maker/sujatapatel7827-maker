@@ -69,9 +69,9 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 
 ## 🔥 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sujatapatel7827-maker&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sujatapatel7827-maker&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujatapatel7827-maker&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujatapatel7827-maker&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
   
