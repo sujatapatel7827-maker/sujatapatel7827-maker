@@ -60,13 +60,13 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 - 🔹 Portfolio Website (React)  
   👉 [View Project](https://my-portfolio-beige-two-18.vercel.app/)
 
-  ---
+---
 
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujatapatel7827-maker&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sujatapatel7827-maker&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=sujatapatel7827-maker&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujatapatel7827-maker&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
