@@ -71,7 +71,6 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
   <img src="https://github-readme-stats.vercel.app/api?username=sujatapatel7827-maker&show_icons=true&theme=radical" />
 </p>
 
-
 ---
   
 ## 📫 Connect with Me
