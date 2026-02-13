@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+Sujata;Java+Full+Stack+Developer;Passionate+Coder+💻;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Passionate+Coder+💻;Always+Learning+🚀&pause=1500&duration=3000" />
 </p>
+
 
 # 👋 Hi, I'm Sujata
 
