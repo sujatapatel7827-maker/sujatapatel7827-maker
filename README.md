@@ -70,7 +70,6 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 ## 🔥 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sujatapatel7827-maker&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujatapatel7827-maker&layout=compact)
 
 ---
   
