@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+Sujata;Java+Full+Stack+Developer;Passionate+Coder+💻;Always+Learning+🚀" />
+</p>
+
 # 👋 Hi, I'm Sujata
 
 Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey 💻✨
@@ -62,5 +66,13 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 - 💼 LinkedIn: https://www.linkedin.com/in/sujata-patel-8a5480344
 - 📸 Instagram: [Social Profile](https://www.instagram.com/queen_of_busy_001/)
 
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujatapatel7827-maker&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujatapatel7827-maker&show_icons=true&theme=radical" />
+</p>
 
 
