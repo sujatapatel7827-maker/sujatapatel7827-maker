@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Sujata
 
-<!--
-**sujatapatel7827-maker/sujatapatel7827-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey 💻✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 💻 Java Full Stack Developer
+- 🚀Passionate about building real-world projects 
+- 🎯 Focused on improving problem-solving skills  
+- 🌱 Currently learning DSA & AI
+- ⚡ Love turning ideas into code
+
+---
+
+## 🎓 Education
+- 🎓 Bachelor of Computer Applications (BCA)
+- 🎯 Focus: Computer Science & Development 
+
+---
+
+## 🛠️ Skills
+
+### 💻 Java Full Stack Development
+
+#### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+
+#### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=springboot)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+#### 🧰 Tools
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
+![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![GitBash](https://img.shields.io/badge/Git%20Bash-black?style=for-the-badge&logo=gnubash)
+
+---
+
+## 💻 Projects
+
+- 🔹 Portfolio Website (React)  
+  👉 [View Project](https://my-portfolio-beige-two-18.vercel.app/)
+
+  ---
+  
+## 📫 Connect with Me
+- 📧 Email: sujatapatel7827@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sujata-patel-8a5480344
+- 📸 Instagram: [Social Profile](https://www.instagram.com/queen_of_busy_001/)
+
+
+
