@@ -36,6 +36,10 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 
 #### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![JDBC](https://img.shields.io/badge/JDBC-grey?style=for-the-badge)
+![Servlet](https://img.shields.io/badge/Servlet-darkblue?style=for-the-badge)
+![JSP](https://img.shields.io/badge/JSP-orange?style=for-the-badge)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-green?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=springboot)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
@@ -44,7 +48,7 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
-#### 🧰 Tools
+#### 🧰 Tools & Technologies
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
@@ -52,6 +56,7 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![GitBash](https://img.shields.io/badge/Git%20Bash-black?style=for-the-badge&logo=gnubash)
+
 
 ---
 
