@@ -62,7 +62,7 @@ Passionate Coder 💻 | Building my future with code 🚀  | Coding my journey �
 
 ## 💻 Projects
 
-- 🔹 Portfolio Website (React)  
+- 🔹 Portfolio Website 
   👉 [View Project](https://my-portfolio-beige-two-18.vercel.app/)
 
 ---
