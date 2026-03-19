@@ -153,7 +153,7 @@ Frontend project built using HTML and CSS representing an online food ordering U
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/queen_of_busy_001">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
