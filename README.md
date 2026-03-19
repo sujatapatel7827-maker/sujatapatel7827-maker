@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=230&section=header&text=Sujata%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Sujata%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
-Java Full Stack Developer
-</p>
+<h3 align="center">Java Full Stack Developer 🚀</h3>
+
 ---
 
 # 👋 Hi, I'm Sujata Patel
@@ -10,7 +9,7 @@ Java Full Stack Developer
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;REST+API+Development+|+Security+|+Microservices+💻;Building+Scalable+and+Real-Time+Systems+🚀&pause=1500&duration=3000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer ;REST+API+Development+|+Security+|+Microservices+💻;Building+Scalable+and+Real-Time+Systems+🚀&pause=1500&duration=3000" />
 </p>
 ---
 
