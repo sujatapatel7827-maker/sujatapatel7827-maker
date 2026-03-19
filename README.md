@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;REST+API+Development+|+Security+|+Microservices+💻;Building+Scalable+and+Real-Time+Systems+🚀&pause=1500&duration=3000&random=123"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;REST+API+Development+|+Security+|+Microservices+💻;Building+Scalable+and+Real-Time+Systems+🚀&pause=1500&duration=3000&random=1"/>
 </p>
 
 ---
