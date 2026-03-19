@@ -1,5 +1,8 @@
-<h1 align="center">Priyanshu Vishwakarma</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Kafka | Redis</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=230&section=header&text=Sujata%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<p align="center">
+Java Full Stack Developer
+</p>
 ---
 
 # 👋 Hi, I'm Sujata Patel
@@ -92,12 +95,6 @@
 
 ---
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujatapatel7827-maker&theme=tokyo-night&bg_color=0D1117&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Activity Graph
 
 <p align="center">
@@ -181,13 +178,11 @@ Frontend project built using HTML and CSS representing an online food ordering U
 
 ---
 
----
-
 <p align="center">
-✨ Thanks for visiting my profile ✨  
+✨ Thanks for visiting my profile ✨
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=150&section=footer"/>
 
 ---
 
