@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Sujata%20Patel&desc=Java%20Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&textBg=false&descAlignY=50&textAlignY=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=270&section=header&text=Sujata%20Patel&desc=Java%20Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&textAlignY=30&descAlignY=60"/>
 
  <h1 align="center">👋 Hi, I'm Sujata Patel</h1>
 
@@ -165,7 +165,7 @@ Frontend project built using HTML and CSS representing an online food ordering U
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=footer&text=Thanks%20for%20visiting%20my%20profile%20✨&fontSize=22&fontColor=ffffff&animation=fadeIn&textAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=footer&text=✨%20Thanks%20for%20visiting%20my%20profile%20✨&fontSize=22&fontColor=ffffff&animation=fadeIn&textAlignY=75"/>
 
 ---
 
