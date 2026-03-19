@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=250&section=header&text=Sujata%20Patel&desc=Java%20Full%20Stack%20Developer&descAlignY=60&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Sujata%20Patel&desc=Java%20Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&textBg=false&descAlignY=50&textAlignY=30"/>
 
  <h1 align="center">👋 Hi, I'm Sujata Patel</h1>
-
----
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;REST+API+Development+|+Security+|+Microservices+💻;Building+Scalable+and+Real-Time+Systems+🚀&pause=1500&duration=3000&random=1"/>
@@ -37,14 +35,14 @@
 
 #### ⚙️ Backend
 ![Java](https://img.shields.io/badge/JAVA-Backend-red?style=for-the-badge&logo=java)
-![JDBC](https://img.shields.io/badge/JDBC-Database_Access-grey?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-Database_Access-brightgreen?style=for-the-badge)
 ![Servlet](https://img.shields.io/badge/SERVLET-Backend-darkblue?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-View-orange?style=for-the-badge)
 ![Thymeleaf](https://img.shields.io/badge/THYMELEAF-Template_Engine-green?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/HIBERNATE-ORM-grey?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/HIBERNATE-ORM-blue?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/SPRING-Framework-green?style=for-the-badge&logo=spring)
 ![SpringBoot](https://img.shields.io/badge/SPRING_BOOT-Framework-brightgreen?style=for-the-badge&logo=springboot)
-![SpringSecurity](https://img.shields.io/badge/SPRING_SECURITY-Auth-lightgrey?style=for-the-badge)
+![SpringSecurity](https://img.shields.io/badge/SPRING_SECURITY-Auth-darkblue?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge)
 
 #### 🗄️ Database
@@ -60,13 +58,6 @@
 ![Postman](https://img.shields.io/badge/POSTMAN-API_Testing-orange?style=for-the-badge&logo=postman)
 ![GitBash](https://img.shields.io/badge/GIT_BASH-Terminal-black?style=for-the-badge&logo=gnubash)
 
-
----
-
-## 💻 Projects
-
-- 🔹 Portfolio Website 
-  👉 [View Project](https://my-portfolio-beige-two-18.vercel.app/)
 
 ---
 
@@ -174,11 +165,7 @@ Frontend project built using HTML and CSS representing an online food ordering U
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=footer&text=Thanks%20for%20visiting%20my%20profile%20✨&fontSize=22&fontColor=ffffff&animation=fadeIn&textAlignY=70"/>
 
 ---
 
