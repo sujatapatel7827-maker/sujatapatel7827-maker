@@ -10,7 +10,7 @@
 
 ## 🔥 About Me
 - 💻 Java Full Stack Developer focused on scalable and real-world applications
-- ⚙️ Working with Spring Boot, Spring AI, Spring Security, Hibernate, Kafka, Redis, MySQL, MongoDB
+- ⚙️ Working with Spring Boot, Spring AI, Spring Security, Hibernate, MySQL, MongoDB
 - 🔐 Strong focus on authentication, REST APIs, performance, and clean architecture 
 - 🌱 Currently learning DSA & AI
 - ⚡ Love turning ideas into code
@@ -32,6 +32,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Styling-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-UI%20Framework-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️ Backend
 ![Java](https://img.shields.io/badge/JAVA-Backend-red?style=for-the-badge&logo=java)
@@ -40,7 +42,7 @@
 ![JSP](https://img.shields.io/badge/JSP-View-orange?style=for-the-badge)
 ![Thymeleaf](https://img.shields.io/badge/THYMELEAF-Template_Engine-green?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/HIBERNATE-ORM-blue?style=for-the-badge)
-![Spring](https://img.shields.io/badge/SPRING-Framework-green?style=for-the-badge&logo=spring)
+[![Spring](https://img.shields.io/badge/SPRING%20AI-AI%20Integration-green?style=for-the-badge&logo=spring)]()
 ![SpringBoot](https://img.shields.io/badge/SPRING_BOOT-Framework-brightgreen?style=for-the-badge&logo=springboot)
 ![SpringSecurity](https://img.shields.io/badge/SPRING_SECURITY-Auth-darkblue?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge)
