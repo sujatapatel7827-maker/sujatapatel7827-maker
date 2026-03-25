@@ -44,7 +44,7 @@
 ![Hibernate](https://img.shields.io/badge/HIBERNATE-ORM-blue?style=for-the-badge)
 [![Spring](https://img.shields.io/badge/SPRING%20AI-AI%20Integration-green?style=for-the-badge&logo=spring)]()
 ![SpringBoot](https://img.shields.io/badge/SPRING_BOOT-Framework-brightgreen?style=for-the-badge&logo=springboot)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-Backend%20Architecture-blue?style=for-the-badge&logo=api&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/SPRING_SECURITY-Auth-darkblue?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge)
 
