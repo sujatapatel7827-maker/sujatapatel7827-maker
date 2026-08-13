@@ -73,20 +73,6 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sujatapatel7827-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujatapatel7827-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujatapatel7827-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sujatapatel7827-maker&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
-</p>
-
----
-
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=sujatapatel7827-maker&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
 </p>
 
