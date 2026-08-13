@@ -72,12 +72,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujatapatel7827-maker&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Activity Graph
 
 <p align="center">
