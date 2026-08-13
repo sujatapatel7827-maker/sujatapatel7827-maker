@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=270&section=header&text=Sujata%20Patel&;&desc=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&textAlignY=30&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=270&section=header&text=Sujata%20Patel&desc=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&textAlignY=30&descAlignY=60"/>
 
  <h1 align="center">👋 Hi, I'm Sujata Patel</h1>
 
