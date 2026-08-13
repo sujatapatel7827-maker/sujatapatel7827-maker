@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=270&section=header&text=Sujata%20Patel&desc=Java%20Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&textAlignY=30&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=270&section=header&text=Sujata%20Patel&;&desc=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&textAlignY=30&descAlignY=60"/>
 
  <h1 align="center">👋 Hi, I'm Sujata Patel</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;REST+API+Development+|+Security+|+Microservices+💻;Building+Scalable+and+Real-Time+Systems+🚀&pause=1500&duration=3000&random=1"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Mern+Stack+Developer;REST+API+Development+|+Security+|+Microservices+💻;Building+Scalable+and+Real-Time+Systems+🚀&pause=1500&duration=3000&random=1"/>
 </p>
 
 ---
